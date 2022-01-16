@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/track/5aVhIDZmDeMt2C2ZMX5KoH?si=63eea03ad77e4fb6)](https://open.spotify.com/track/5aVhIDZmDeMt2C2ZMX5KoH?si=63eea03ad77e4fb6)
+[<img src="https://spotify1-nine.vercel.app/api/spotify-playing" alt="Spotify" width="350"/>]()
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
