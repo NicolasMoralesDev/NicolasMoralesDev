@@ -17,9 +17,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-### Spotify Playing 🎧
-
-[<img src="https://spotify1-nine.vercel.app/api/spotify-playing" alt="Spotify" width="350"/>]()
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
 <!-- wi*quL3fcV -->
