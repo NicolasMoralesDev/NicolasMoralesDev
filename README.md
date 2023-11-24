@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Nicolas:
+# 👋 Hi, My name is Nicolas:
 
 - 🎓I study programming at the National University of the Litoral
 - :mailbox: You can reach me with the links below
